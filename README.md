@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Fantoguapo
-- 👀 I’m interested in the cybersecurity
-- 🌱 I’m currently learning how to program html,CSS and JavaScript
